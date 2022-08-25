@@ -1,0 +1,11 @@
+const Calculadora = require('./src/calculadora');
+let adicao = Calculadora.soma(5, 6);
+console.log(adicao);
+let sub = Calculadora.subtracao(5, 6);
+console.log(sub);
+let multi = Calculadora.multiplicacao(5, 6);
+console.log(multi);
+let divisao = Calculadora.divisao(5, 0);
+console.log(divisao);
+let resdivisao = Calculadora.restodiv(5, 6);
+console.log(resdivisao);
