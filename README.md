@@ -11,19 +11,16 @@
 > Relatórios entregues em aula de Laboratório - 
 
 
-(X) Aula 2 Revisão;
+[X] Aula 2 Revisão;
 
-(X) Aula 3 Gerência de dependências;
+[X] Aula 3 Gerência de dependências;
 
-(X) Aula 4 Git/Github;
+[X] Aula 4 Git/Github;
 
-(X) Aula 5 README;
+[X] Aula 5 README;
 
-<<<<<<< HEAD
-(X) Aula 6 README;
+[X] Aula 6 README;
 
-=======
->>>>>>> 56d5a968bc492ebcb568b43dbfd5fa53556bdfe1
 
 ### Códigos:
 
