@@ -19,8 +19,11 @@
 
 (X) Aula 5 README;
 
+<<<<<<< HEAD
 (X) Aula 6 README;
 
+=======
+>>>>>>> 56d5a968bc492ebcb568b43dbfd5fa53556bdfe1
 
 ### Códigos:
 
