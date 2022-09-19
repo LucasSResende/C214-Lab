@@ -19,7 +19,9 @@
 
 [x] Aula 5 README;
 
-[x] Aula 6 README;
+[x] Aula 6 API Rest;
+
+[x] Aula 7 Teste unitário;
 
 
 ### Códigos:
