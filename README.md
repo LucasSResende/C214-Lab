@@ -1,7 +1,7 @@
 <h1 align="center">Laboratório de C214</h1>
 
 
-> Repositório das aulas semanais de Engenharia de Software, de acordo com as atividades realizadas por aula.
+> Repositório das aulas semanais de Engenharia de Software, de acordo com as atividades realizadas semanalmente.
 
 <img src = "https://i0.wp.com/jornal.usp.br/wp-content/uploads/2020/04/20200427_00_computacao_programacao_notebook1.jpg?fit=800%2C420&ssl=1" />
 
@@ -19,7 +19,9 @@
 
 [x] Aula 5 README;
 
-[x] Aula 6 README;
+[x] Aula 6 API Rest;
+
+[x] Aula 7 Teste unitário;
 
 
 ### Códigos:
