@@ -23,6 +23,8 @@
 
 [x] Aula 7 Teste unitário;
 
+[x] Aula 8-9 Teste Teste Mock;
+
 
 ### Códigos:
 
